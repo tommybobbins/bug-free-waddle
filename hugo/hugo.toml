@@ -1,6 +1,6 @@
 baseURL = 'https://richardgibbon.org/'
 languageCode = 'en-us'
-title = 'Stanley Peck'
+title = 'Richard Gibbon'
 uglyURLs = "true"
 relativeURLs = "true"
 [module]
