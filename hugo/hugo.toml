@@ -1,0 +1,8 @@
+baseURL = 'https://richardgibbon.org/'
+languageCode = 'en-us'
+title = 'Stanley Peck'
+uglyURLs = "true"
+relativeURLs = "true"
+[module]
+  [[module.imports]]
+    path = "github.com/nicokaiser/hugo-theme-gallery/v4"

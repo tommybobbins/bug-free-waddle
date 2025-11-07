@@ -1,0 +1,10 @@
+{
+ "compilerOptions": {
+  "baseUrl": ".",
+  "paths": {
+   "*": [
+    "../../../../../../../home/tng/.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/nicokaiser/hugo-theme-gallery/v4@v4.9.1/assets/*"
+   ]
+  }
+ }
+}
