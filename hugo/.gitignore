@@ -11,3 +11,4 @@ public
 
 # Crash log files
 crash.log
+.hugo_build.lock
