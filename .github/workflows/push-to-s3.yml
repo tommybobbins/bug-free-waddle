@@ -42,7 +42,7 @@ jobs:
       - name: Build
         run: |
              cd hugo 
-             hugo -D --config config.toml
+             hugo -D --config hugo.toml
 
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@v4
