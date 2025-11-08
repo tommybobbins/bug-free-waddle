@@ -1,4 +1,4 @@
-baseURL = 'https://richardgibbon.org/'
+baseURL = 'https://richardgibbon.org/photos'
 languageCode = 'en-us'
 title = 'Richard Gibbon'
 uglyURLs = "true"

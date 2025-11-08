@@ -1,9 +1,0 @@
-baseURL = 'https://richardgibbon.org/'
-languageCode = 'en-us'
-title = 'Richard Gibbon'
-uglyURLs = "true"
-relativeURLs = "true"
-timeout = '180s'
-[module]
-  [[module.imports]]
-    path = "github.com/nicokaiser/hugo-theme-gallery/v4"
