@@ -1,8 +1,8 @@
-baseURL = 'https://richardgibbon.org/photos'
+baseURL = 'https://richardgibbon.org'
 languageCode = 'en-us'
 title = 'Richard Gibbon'
-uglyURLs = "true"
-relativeURLs = "true"
+uglyURLs = true
+relativeURLs = true
 timeout = 180
 [module]
   [[module.imports]]
